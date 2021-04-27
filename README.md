@@ -1,4 +1,7 @@
-💬[个人博客](https://www.crosshair.top/)
+💬[半只龙虾人's 个人博客](https://www.crosshair.top/)
+
+![半只龙虾人's github stats](https://github-readme-stats.vercel.app/api?username=HalfLobsterMan&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
+
 <!--
 **HalfLobsterMan/HalfLobsterMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
