@@ -1,6 +1,11 @@
 💬[我的个人博客](https://www.crosshair.top/)
 
-![半只龙虾人's github stats](https://github-readme-stats.vercel.app/api?username=HalfLobsterMan&show_icons=true&bg_color=30,0099FF,FF99FF&title_color=fff&text_color=fff)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=halflobsterman&count_private=true&show_icons=true&hide=contribs" width="470px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halflobsterman&layout=compact" width="332px" />
+</a>
 
 
 <!--
