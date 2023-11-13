@@ -1,16 +1,16 @@
 💬[我的个人博客](https://www.haloman.net/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=haloman&count_private=true&show_icons=true&hide=contribs" width="470px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=haloman9527&count_private=true&show_icons=true&hide=contribs" width="470px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haloman&layout=compact" width="332px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haloman9527&layout=compact" width="332px" />
 </a>
 
 
 <!--
-**haloman9527/haloman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![半只龙虾人's github stats](https://github-readme-stats.vercel.app/api?username=haloman&show_icons=true&bg_color=30,0099FF,FF99FF&title_color=fff&text_color=fff)
+**haloman9527/haloman9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![半只龙虾人's github stats](https://github-readme-stats.vercel.app/api?username=haloman9527&show_icons=true&bg_color=30,0099FF,FF99FF&title_color=fff&text_color=fff)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
